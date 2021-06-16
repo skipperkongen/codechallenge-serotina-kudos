@@ -1,0 +1,21 @@
+# Exercise 1: get distinct characters in string
+
+Implement a function that returns a collection of distinct characters in a string:
+
+```python
+test_string = 'The quick brown fox jumps over the lazy dog twice!'
+
+def get_distinct_characters(s):
+    return set(list(s))
+
+def test(func, input):
+    t1 = sorted(list(func(input))) == sorted([' ', '!', 'T', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'])
+    if t1:
+        print('Congratulations')
+    else:
+        print('Try again')
+
+test(get_distinct_characters, test_string)
+```
+
+Post your answer on [Github Gist](https://gist.github.com/) or [paste bin](https://paste.ubuntu.com/).

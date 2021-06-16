@@ -1,7 +1,9 @@
 # Coding Challenges
 > serotina-kudos
 
-A set of coding questions. Post your code and output in [Github Gist](https://gist.github.com/).
+A set of Python coding questions. You can use any Python library you want.
+
+Share your code answers using [Github Gist](https://gist.github.com/) or [paste bin](https://paste.ubuntu.com/).
 
 - [Exercise 1](./exercise_1.md)
 - [Exercise 2](./exercise_2.md)
