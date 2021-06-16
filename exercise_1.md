@@ -1,6 +1,6 @@
 # Exercise 1: get distinct characters in string
 
-Implement a function that returns a collection of distinct characters in a string:
+Implement a function that returns a collection of distinct characters in a string.
 
 ```python
 test_string = 'The quick brown fox jumps over the lazy dog twice!'

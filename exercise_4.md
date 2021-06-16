@@ -12,21 +12,16 @@ def count_words_web(url):
     raise NotImplementedError
 
 def test(func, input):
-
-    output = list(func(input))
-    # same numbers in two lists
-    t1 = sorted(output) == sorted(input)
-    # odd-even criteria
-    modlist = [int(x%2) for x in output]
-    first_one = modlist.index(1)
-    t2 = set([x%2 for x in output[:first_one]]) == {0}
-    t3 = set([x%2 for x in output[first_one:]]) == {1}
-    if t1 and t2 and t3:
-        print('Congratulations')
+    t1 = func(input[0]) == 69
+    t2 = func(input[1]) == 69
+    if t1 and t2:
+        print('Congratulations, you cracked the bonus question!')
+    elif t1:
+        print('Congratulations!')
     else:
-        print('Try again:', t1, t2, t3)
+        print('Try again:', t1, t2)
 
-test(odd_even_sort, test_numbers)
+test(count_words_web, [test_url_1, test_url_2])
 ```
 
 Post your answer on [Github Gist](https://gist.github.com/) or [paste bin](https://paste.ubuntu.com/).

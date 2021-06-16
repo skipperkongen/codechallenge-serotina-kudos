@@ -1,6 +1,6 @@
 # Exercise 2: check if string is a palindrome
 
-Implement a function that checks whether a string is a palindrome:
+Implement a function that checks whether a string is a [palindrome](https://en.wikipedia.org/wiki/Palindrome).
 
 ```python
 test_strings = [
@@ -13,7 +13,7 @@ test_strings = [
 
 def is_palindrome(s):
   # TODO: implement, return True or False
-  return s == s[::-1]
+  raise NotImplementedError
 
 
 def test(func, input):
