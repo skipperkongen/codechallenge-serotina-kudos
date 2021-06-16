@@ -4,8 +4,8 @@ Implement a function that counts words on a webpage. Your function must download
 Bonus points: implement the function so that it ignores HTML markup.
 
 ```python
-test_url_1 = ''
-test_url_2 = ''
+test_url_1 = 'https://raw.githubusercontent.com/skipperkongen/codechallenge-serotina-kudos/main/page_raw.txt'
+test_url_2 = 'https://raw.githubusercontent.com/skipperkongen/codechallenge-serotina-kudos/main/page_markup.html'
 
 def count_words_web(url):
     # TODO: implement, return integer, number of words on webpage
