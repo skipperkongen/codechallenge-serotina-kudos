@@ -1,6 +1,6 @@
 # Exercise 3: odd-even sorting
 
-Implement a function that sorts a list of numbers, so odd numbers are moved to the left and even numbers to the right:
+Implement a function that sorts a list of numbers, so odd numbers are moved to the left and even numbers to the right.
 
 ```python
 test_numbers = [int(x%7*5/2) for x in range(20)]
