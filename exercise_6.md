@@ -1,5 +1,15 @@
 # Exercise 6: SQL!
 
+```
+      (`-,-,
+      ('(_,( )
+       _   `_'
+    __|_|__|_|_
+  _|___________|__
+ |o o o o o o o o/   
+~'`~'`~'`~'`~'`~'`~
+```
+
 Write some SQL related to container shipping.
 
 ```python

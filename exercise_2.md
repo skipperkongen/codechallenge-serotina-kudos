@@ -1,5 +1,12 @@
 # Exercise 2: check if string is a palindrome
 
+```
+ ,_,    ,_,    ,_,
+(.,.)  (O,O)  (.,.)
+(   )  (   )  (   )
+-"-"----"-"----"-"-
+```
+
 Implement a function that checks whether a string is a [palindrome](https://en.wikipedia.org/wiki/Palindrome).
 
 ```python

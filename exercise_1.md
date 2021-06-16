@@ -1,4 +1,15 @@
-# Exercise 1: get distinct characters in string
+# Exercise 1: find distinct characters in a string
+
+```
+    .      .
+    _\/  \/_
+     _\/\/_
+ _\_\_\/\/_/_/_
+  / /_/\/\_\ \
+     _/\/\_
+     /\  /\
+     '      '
+```
 
 Implement a function that returns a collection of distinct characters in a string.
 

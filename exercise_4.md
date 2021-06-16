@@ -1,5 +1,13 @@
 # Exercise 4: count words on a webpage
 
+```
+ __     __     __     __     __     __    
+/\ \  _ \ \   /\ \  _ \ \   /\ \  _ \ \   
+\ \ \/ ".\ \  \ \ \/ ".\ \  \ \ \/ ".\ \  
+ \ \__/".~\_\  \ \__/".~\_\  \ \__/".~\_\
+  \/_/   \/_/   \/_/   \/_/   \/_/   \/_/
+```
+
 Implement a function that counts words on a webpage. Your function must download the source for the webpage and return the same count as the Linux command `wc -w`.
 
 > Bonus points: implement the function so that it ignores HTML markup.

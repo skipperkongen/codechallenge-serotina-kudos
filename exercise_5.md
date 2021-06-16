@@ -1,5 +1,19 @@
 # Exercise 5: crack the PIN-code
 
+```
+     _________
+    / ======= \
+   / __________\
+  | ___________ |
+  | | -       | |
+  | |         | |
+  | |_________| |________________________
+  \=____________/                        )
+  / """"""""""" \                       /
+ / ::::::::::::: \                  =D-'
+(_________________)
+```
+
 Implement a function that cracks a PIN-code hash. You know that the original PIN has four digits and that it was hashed using the SHA-256 hashing algorithm.
 
 ```python
