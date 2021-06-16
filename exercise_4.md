@@ -1,7 +1,8 @@
 # Exercise 4: count words on a webpage
 
 Implement a function that counts words on a webpage. Your function must download the source for the webpage and return the same count as the Linux command `wc -w`.
-Bonus points: implement the function so that it ignores HTML markup.
+
+> Bonus points: implement the function so that it ignores HTML markup.
 
 ```python
 test_url_1 = 'https://raw.githubusercontent.com/skipperkongen/codechallenge-serotina-kudos/main/page_raw.txt'
