@@ -33,4 +33,4 @@ def test(func, input):
 test(is_palindrome, test_strings)
 ```
 
-Share your answers in a private [Github Gist](https://gist.github.com/) or use [Cryptobin](https://cryptobin.co/).
+Share your answers in a secret [Github Gist](https://gist.github.com/) or use [Cryptobin](https://cryptobin.co/).

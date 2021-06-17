@@ -55,4 +55,4 @@ cur.execute('''INSERT INTO prices VALUES ('P5', 'CNSHG-DEBRV', '201205','2012-01
 # cur.fetchall()
 ```
 
-Share your answers in a private [Github Gist](https://gist.github.com/) or use [Cryptobin](https://cryptobin.co/).
+Share your answers in a secret [Github Gist](https://gist.github.com/) or use [Cryptobin](https://cryptobin.co/).

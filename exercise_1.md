@@ -29,4 +29,4 @@ def test(func, input):
 test(get_distinct_characters, test_string)
 ```
 
-Share your answers in a private [Github Gist](https://gist.github.com/) or use [Cryptobin](https://cryptobin.co/).
+Share your answers in a secret [Github Gist](https://gist.github.com/) or use [Cryptobin](https://cryptobin.co/).

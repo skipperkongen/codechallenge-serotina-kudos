@@ -33,4 +33,4 @@ def test(func, input):
 test(crack_sha256, sha256_hexdigest)
 ```
 
-Share your answers in a private [Github Gist](https://gist.github.com/) or use [Cryptobin](https://cryptobin.co/).
+Share your answers in a secret [Github Gist](https://gist.github.com/) or use [Cryptobin](https://cryptobin.co/).
