@@ -11,13 +11,13 @@
 (_______)(_______)(_______)(_______)\____/\____/\____/\____/\____/\____/
 ```
 
-Implement a function that sorts a list of numbers, so odd numbers are moved to the left and even numbers to the right.
+Implement a function that sorts a list of numbers, so odd numbers are moved to the right and even numbers to the left.
 
 ```python
 test_numbers = [int(x%7*5/2) for x in range(20)]
 
 def odd_even_sort(l):
-    # TODO: implement, return a list with odd numbers from input on left and even numbers from input on right
+    # TODO: implement, return a list with odd numbers from input on right and even numbers from input on left
     raise NotImplementedError
 
 def test(func, input):
