@@ -3,7 +3,7 @@
 
 A set of Python coding questions. You can use any Python library you want.
 
-Share your answers on [Github Gist](https://gist.github.com/) or [paste bin](https://paste.ubuntu.com/).
+Share your answers in a private [Github Gist](https://gist.github.com/) or use [Cryptobin](https://cryptobin.co/).
 
 - [Exercise 1: distinct characters](./exercise_1.md)
 - [Exercise 2: palindrome](./exercise_2.md)

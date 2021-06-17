@@ -37,4 +37,4 @@ def test(func, input):
 test(odd_even_sort, test_numbers)
 ```
 
-Post your answer on [Github Gist](https://gist.github.com/) or [paste bin](https://paste.ubuntu.com/).
+Share your answers in a private [Github Gist](https://gist.github.com/) or use [Cryptobin](https://cryptobin.co/).

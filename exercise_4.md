@@ -33,4 +33,4 @@ def test(func, input):
 test(count_words_web, [test_url_1, test_url_2])
 ```
 
-Post your answer on [Github Gist](https://gist.github.com/) or [paste bin](https://paste.ubuntu.com/).
+Share your answers in a private [Github Gist](https://gist.github.com/) or use [Cryptobin](https://cryptobin.co/).
