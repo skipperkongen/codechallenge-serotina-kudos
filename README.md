@@ -11,3 +11,4 @@ Share your answers in a secret [Github Gist](https://gist.github.com/) or use [C
 - [Exercise 4: count words on a webpage](./exercise_4.md)
 - [Exercise 5: crack the pin code](./exercise_5.md)
 - [Exercise 6: SQL](./exercise_6.md)
+- [Exercise 6: Uncles & Aunts](./exercise_7.md)
